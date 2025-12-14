@@ -1,0 +1,1 @@
+import{i as t,c as e}from"./app-C1XH7PtB.js";import{o,g as n}from"./app-DjYJfrF8.js";function c(){t(this)}const s={class:"comment"},p={__name:"index",setup(a){return e(new c),(r,i)=>(o(),n("p",s,"此功能暂未开放，敬请期待。"))}};export{p as default};

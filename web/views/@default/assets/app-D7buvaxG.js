@@ -1,0 +1,1 @@
+import{o,c as p,s as t}from"./app-DjYJfrF8.js";import{_ as r}from"./app-D58jrwx3.js";import"./app-Cu5XYzXJ.js";import"./app-PXD802g2.js";import"./app-CXb0aRmx.js";import"./app-DA-qpgNO.js";import"./app-BsrZGiqM.js";import"./app-zaKueCu1.js";const e={__name:"index",setup(m){return(s,a)=>(o(),p(r,{"active-top-menu":"products"}))}};t({app:e,useRouter:!1});
