@@ -1,1 +1,0 @@
-import{T as t}from"./app-DDxM4xJi.js";import{o as a,c as o,w as s,j as r}from"./app-DjYJfrF8.js";const _={__name:"TinyBasicLabel",setup(n){return(e,c)=>(a(),o(t,{size:"tiny",outlined:""},{default:s(()=>[r(e.$slots,"default")]),_:3}))}};export{_};

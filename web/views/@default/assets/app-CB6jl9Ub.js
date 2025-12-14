@@ -1,1 +1,0 @@
-import{o as s,g as a,a as t,j as o,b as r,L as c}from"./app-DjYJfrF8.js";const n={class:"flex gap-2 items-center"},i={__name:"NavButtons",setup(_){return(e,l)=>(s(),a("div",null,[t("div",n,[o(e.$slots,"default")]),r(c)]))}};export{i as _};
